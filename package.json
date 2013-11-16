@@ -1,0 +1,26 @@
+{
+  "name": "super-leaptv",
+  "version": "0.0.0",
+  "description": "Super TV Controller by leapmotion + leapjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nekobato/super-leaptv"
+  },
+  "keywords": [
+    "node",
+    "leapjs",
+    "tv"
+  ],
+  "author": "nekobato",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nekobato/super-leaptv/issues"
+  },
+  "dependencies": {
+    "leapjs": "~0.2.1"
+  }
+}
